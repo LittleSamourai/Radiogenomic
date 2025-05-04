@@ -1,0 +1,16 @@
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+
+
+.DS_Store
+*.log
+.env
+
+# Dataset
+data/
+train_labels.csv
+*.pt
+*.pth
+*.png
